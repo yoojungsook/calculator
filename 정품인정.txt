@@ -1,0 +1,12 @@
+
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+slmgr /skms kms8.msguides.com
+
+slmgr -xpr
+
+6개월 마다 정품 인정갱신
+
+slmgr /ato
+
+
